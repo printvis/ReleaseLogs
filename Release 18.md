@@ -1,4 +1,8 @@
 # PrintVis 18 releases
+|PrintVis Version|BC 18.1 | BC 18.5 | BC 18.6 | BC 18.7 | BC 18.8 |Source Code|Log|Date|
+|---|---| ---| ---| ---| ---|---|---|---|
+|18.10.0.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.10/0/18.10%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.10/0/18.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.10/0/18.6%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.10/0/18.7%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.10/0/18.8%20RuntimePackages.zip)|[Download](https://printvispartner.com/login/)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.10/0/18.10.0.0 release log.csv)10/02/2022|
+
 |PrintVis Version|BC 18.5 | BC 18.6 | BC 18.7 | BC 18.8 | BC 18.9 |Source Code|Log|Date|
 |---|---| ---| ---| ---| ---|---|---|---|
 |18.9.1.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.9/1/18.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.9/1/18.6%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.9/1/18.7%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.9/1/18.8%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.9/1/18.9%20RuntimePackages.zip)|[Download](https://printvispartner.com/login/)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-18/18.9/1/18.9.1.0%20release%20log.csv)|03/02/2022|
