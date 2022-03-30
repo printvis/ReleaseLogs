@@ -1,6 +1,10 @@
 # PrintVis 19 releases
 |PrintVis Version|BC 19.0 | BC 19.1 | BC 19.2 | BC 19.3 | BC 19.4 | BC 19.5 |Source Code|Log|Date|
 |---|---| ---| ---| ---| ---| ---|---|---|---|
+|19.5.4.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.5%20RuntimePackages.zip)|[Download](https://printvispartner.com/sourcecode/)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/4/19.5.4.0%20release%20log.csv)|30/03/2022|
+
+|PrintVis Version|BC 19.0 | BC 19.1 | BC 19.2 | BC 19.3 | BC 19.4 | BC 19.5 |Source Code|Log|Date|
+|---|---| ---| ---| ---| ---| ---|---|---|---|
 |19.5.3.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.5%20RuntimePackages.zip)|[Download](https://printvispartner.com/sourcecode/)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-19/19.5/3/19.5.3.0%20release%20log.csv)|23/03/2022|
 
 |PrintVis Version|BC 19.0 | BC 19.1 | BC 19.2 | BC 19.3 | BC 19.4 | BC 19.5 |Source Code|Log|Date|
