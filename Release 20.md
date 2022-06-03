@@ -1,8 +1,5 @@
 [Cummulative Log](https://printvis.blob.core.windows.net/releases/pv365bc-20/PrintVis%2020%20release%20log.csv)
 # PrintVis 20 releases
-|PrintVis Version|BC 20.0 | BC 20.1 |Log|Date|
-|---|---| ---|---|---|
-|20.1.999.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.1/999/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.1/999/20.1%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.1/999/20.1.999.0%20release%20log.csv)|03/06/2022|
 
 |PrintVis Version|BC 20.0 | BC 20.1 |Log|Date|
 |---|---| ---|---|---|
