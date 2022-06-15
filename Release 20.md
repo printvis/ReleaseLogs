@@ -6,10 +6,6 @@
 
 |PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 |Log|Date|
 |---|---| ---| ---|---|---|
-|20.2.1.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/1/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/1/20.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/1/20.2%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/1/20.2.1.0%20release%20log.csv)|14/06/2022|
-
-|PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 |Log|Date|
-|---|---| ---| ---|---|---|
 |20.2.0.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/0/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/0/20.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/0/20.2%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.2/0/20.2.0.0%20release%20log.csv)|10/06/2022|
 
 |PrintVis Version|BC 20.0 | BC 20.1 |Log|Date|
