@@ -2,6 +2,10 @@
 # PrintVis 20 releases
 |PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 | BC 20.3 | BC 20.4 | BC 20.5 |Log|Date|
 |---|---| ---| ---| ---| ---| ---|---|---|
+|20.5.7.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.5%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/7/20.5.7.0%20release%20log.csv)|14/09/2022|
+
+|PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 | BC 20.3 | BC 20.4 | BC 20.5 |Log|Date|
+|---|---| ---| ---| ---| ---| ---|---|---|
 |20.5.6.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.5%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.5/6/20.5.6.0%20release%20log.csv)|12/09/2022|
 
 |PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 | BC 20.3 | BC 20.4 | BC 20.5 |Log|Date|
