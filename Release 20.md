@@ -2,6 +2,10 @@
 # PrintVis 20 releases
 |PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 | BC 20.3 | BC 20.4 | BC 20.5 | BC 20.6 |Log|Date|
 |---|---| ---| ---| ---| ---| ---| ---|---|---|
+|20.6.17.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/17/20.6.17.0%20release%20log.csv)|26/10/2022|
+
+|PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 | BC 20.3 | BC 20.4 | BC 20.5 | BC 20.6 |Log|Date|
+|---|---| ---| ---| ---| ---| ---| ---|---|---|
 |20.6.16.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-20/20.6/16/20.6.16.0%20release%20log.csv)|19/10/2022|
 
 |PrintVis Version|BC 20.0 | BC 20.1 | BC 20.2 | BC 20.3 | BC 20.4 | BC 20.5 | BC 20.6 |Log|Date|
