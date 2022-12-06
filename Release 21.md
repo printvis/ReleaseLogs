@@ -1,4 +1,4 @@
-[Cummulative Log - comming soon]()
+[Cummulative Log]()
 # PrintVis 21 releases
 |PrintVis Version|BC 21.0 | BC 21.1 | BC 21.2 |Log|Date|
 |---|---| ---| ---|---|---|
