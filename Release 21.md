@@ -2,6 +2,10 @@
 # PrintVis 21 releases
 |PrintVis Version|BC 21.0 | BC 21.1 | BC 21.2 | BC 21.3 | BC 21.4 | BC 21.5 | BC 21.6 |Log|Date|
 |---|---| ---| ---| ---| ---| ---| ---|---|---|
+|21.6.3.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.6/3/21.6.3.0%20release%20log.csv)|11/04/2023|
+
+|PrintVis Version|BC 21.0 | BC 21.1 | BC 21.2 | BC 21.3 | BC 21.4 | BC 21.5 | BC 21.6 |Log|Date|
+|---|---| ---| ---| ---| ---| ---| ---|---|---|
 |21.5.7.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-21/21.5/7/21.5.7.0%20release%20log.csv)|05/04/2023|
 
 |PrintVis Version|BC 21.0 | BC 21.1 | BC 21.2 | BC 21.3 | BC 21.4 | BC 21.5 |Log|Date|
