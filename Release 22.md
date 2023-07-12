@@ -2,6 +2,10 @@
 # PrintVis 22 releases
 |PrintVis Version|BC 22.0 | BC 22.1 | BC 22.2 | BC 22.3 |Log|Date|
 |---|---| ---| ---| ---|---|---|
+|22.3.1.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/1/22.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/1/22.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/1/22.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/1/22.3%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/1/22.3.1.0%20release%20log.csv)|12/07/2023|
+
+|PrintVis Version|BC 22.0 | BC 22.1 | BC 22.2 | BC 22.3 |Log|Date|
+|---|---| ---| ---| ---|---|---|
 |22.3.0.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/0/22.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/0/22.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/0/22.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/0/22.3%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.3/0/22.3.0.0%20release%20log.csv)|12/07/2023|
 
 |PrintVis Version|BC 22.0 | BC 22.1 | BC 22.2 | BC 22.3 |Log|Date|
