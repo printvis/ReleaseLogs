@@ -1,6 +1,8 @@
 # ReleaseLogs
 PrintVis Release logs and download links
 
+[PrintVis PTE apps](PrintVisPTEApps.md)<br>
+
 [Release logs for PV22](Release%2022.md) <br>
 [Release logs for PV21](Release%2021.md) <br>
 [Release logs for PV20](Release%2020.md) <br>
