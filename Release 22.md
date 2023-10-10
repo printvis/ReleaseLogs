@@ -2,6 +2,10 @@
 # PrintVis 22 releases
 |PrintVis Version|BC 22.0 | BC 22.1 | BC 22.2 | BC 22.3 | BC 22.4 | BC 22.5 | BC 22.6 |Log|Date|
 |---|---| ---| ---| ---| ---| ---| ---|---|---|
+|22.6.12.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.6/12/22.6.12.0%20release%20log.csv)|10/10/2023|
+
+|PrintVis Version|BC 22.0 | BC 22.1 | BC 22.2 | BC 22.3 | BC 22.4 | BC 22.5 | BC 22.6 |Log|Date|
+|---|---| ---| ---| ---| ---| ---| ---|---|---|
 |22.5.16.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-22/22.5/16/22.5.16.0%20release%20log.csv)|06/10/2023|
 
 |PrintVis Version|BC 22.0 | BC 22.1 | BC 22.2 | BC 22.3 | BC 22.4 | BC 22.5 |Log|Date|
