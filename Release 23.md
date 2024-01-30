@@ -1,6 +1,10 @@
 # PrintVis 23 releases
 |PrintVis Version|BC 23.0 | BC 23.1 | BC 23.2 | BC 23.3 |Log|Date|
 |---|---| ---| ---| ---|---|---|
+|23.3.0.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.3/0.0/23.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.3/0.0/23.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.3/0.0/23.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.3/0.0/23.3%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.3/0.0/23.3.0.0%20release%20log.csv)|30/01/2024|
+
+|PrintVis Version|BC 23.0 | BC 23.1 | BC 23.2 | BC 23.3 |Log|Date|
+|---|---| ---| ---| ---|---|---|
 |23.2.0.7|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.2/0.7/23.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.2/0.7/23.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.2/0.7/23.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.2/0.7/23.3%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.2/0.7/23.2.0.7%20release%20log.csv)|24/01/2024|
 
 |PrintVis Version|BC 23.0 | BC 23.1 | BC 23.2 | BC 23.3 |Log|Date|
