@@ -5,10 +5,6 @@
 
 |PrintVis Version|BC 23.0 | BC 23.1 | BC 23.2 | BC 23.3 | BC 23.4 | BC 23.5 | BC 23.6 |Log|Date|
 |---|---| ---| ---| ---| ---| ---| ---|---|---|
-|23.6.1.9|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.9/23.6.1.9%20release%20log.csv)|01/05/2024|
-
-|PrintVis Version|BC 23.0 | BC 23.1 | BC 23.2 | BC 23.3 | BC 23.4 | BC 23.5 | BC 23.6 |Log|Date|
-|---|---| ---| ---| ---| ---| ---| ---|---|---|
 |23.6.1.8|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-23/23.6/1.8/23.6.1.8%20release%20log.csv)|16/04/2024|
 
 |PrintVis Version|BC 23.0 | BC 23.1 | BC 23.2 | BC 23.3 | BC 23.4 | BC 23.5 | BC 23.6 |Log|Date|
