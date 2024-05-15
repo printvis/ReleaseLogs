@@ -1,3 +1,4 @@
+[Cummulative Log](https://printvis.blob.core.windows.net/releases/pv365bc-24/PrintVis%2024%20release%20log.csv)
 # PrintVis 24 releases
 |PrintVis Version|BC 24.0 |Log|Date|
 |---|---|---|---|
