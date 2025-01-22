@@ -2,6 +2,10 @@
 # PrintVis 25 releases
 |PrintVis Version|BC 25.0 | BC 25.1 | BC 25.2 |Log|Date|
 |---|---| ---| ---|---|---|
+|25.2.1.3|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.3/25.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.3/25.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.3/25.2%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.3/25.2.1.3%20release%20log.csv)|22/01/2025|
+
+|PrintVis Version|BC 25.0 | BC 25.1 | BC 25.2 |Log|Date|
+|---|---| ---| ---|---|---|
 |25.2.1.2|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.2/25.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.2/25.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.2/25.2%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-25/25.2/1.2/25.2.1.2%20release%20log.csv)|15/01/2025|
 
 |PrintVis Version|BC 25.0 | BC 25.1 | BC 25.2 |Log|Date|
