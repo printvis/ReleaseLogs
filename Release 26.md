@@ -1,5 +1,9 @@
 [Cumulative Log](https://printvis.blob.core.windows.net/releases/pv365bc-26/PrintVis%2026%20release%20log.csv)
 # PrintVis 26 releases
+|PrintVis Version|BC 26.0 | BC 26.1 | BC 26.2 | BC 26.3 |Log|Date|
+|---|---| ---| ---| ---|---|---|
+|26.2.1.3|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.3/26.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.3/26.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.3/26.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.3/26.3%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.3/26.2.1.3%20release%20log.csv)|10/07/2025|
+
 |PrintVis Version|BC 26.0 | BC 26.1 | BC 26.2 |Log|Date|
 |---|---| ---| ---|---|---|
 |26.2.1.2|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.2/26.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.2/26.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.2/26.2%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-26/26.2/1.2/26.2.1.2%20release%20log.xlsx)|03/07/2025|
