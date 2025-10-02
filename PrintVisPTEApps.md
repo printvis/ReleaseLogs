@@ -1,2 +1,0 @@
-# PrintVis PTE apps
-
