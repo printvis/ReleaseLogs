@@ -1,0 +1,2 @@
+[Cumulative Log](https://printvis.blob.core.windows.net/releases/pv365bc-27/PrintVis%2027%20release%20log.csv)
+# PrintVis 27 releases
