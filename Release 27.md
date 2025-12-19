@@ -2,7 +2,7 @@
 # PrintVis 27 releases
 |PrintVis Version|BC 27.0 | BC 27.1 | BC 27.2 |Log|Date|
 |---|---| ---| ---|---|---|
-|27.2.1.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.2%20RuntimePackages.zip)|[Download]()|19/12/2025|
+|27.2.1.0|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.2%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.2/1.0/27.2.1.0%20release%20log.xlsx)|19/12/2025|
 
 |PrintVis Version|BC 27.0 | BC 27.1 | BC 27.2 |Log|Date|
 |---|---| ---| ---|---|---|
