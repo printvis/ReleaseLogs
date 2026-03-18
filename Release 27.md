@@ -1,5 +1,9 @@
 [Cumulative Log](https://printvis.blob.core.windows.net/releases/pv365bc-27/PrintVis%2027%20release%20log.csv)
 # PrintVis 27 releases
+|PrintVis Version|BC 27.0 | BC 27.1 | BC 27.2 | BC 27.3 | BC 27.4 | BC 27.5 |Log|Date|
+|---|---| ---| ---| ---| ---| ---|---|---|
+|27.5.1.1|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.5/1.1/27.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.5/1.1/27.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.5/1.1/27.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.5/1.1/27.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.5/1.1/27.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.5/1.1/27.5%20RuntimePackages.zip)|[Download]()|18/03/2026|
+
 |PrintVis Version|BC 27.0 | BC 27.1 | BC 27.2 | BC 27.3 | BC 27.4 |Log|Date|
 |---|---| ---| ---| ---| ---|---|---|
 |27.4.1.3|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.4/1.3/27.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.4/1.3/27.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.4/1.3/27.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.4/1.3/27.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.4/1.3/27.4%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-27/27.4/1.3/27.4.1.3%20release%20log.xlsx)|05/03/2026|
