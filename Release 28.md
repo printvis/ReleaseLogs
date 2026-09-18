@@ -1,5 +1,9 @@
 [Cumulative Log](https://printvis.blob.core.windows.net/releases/pv365bc-28/PrintVis%2028%20release%20log.csv)
 # PrintVis 28 releases
+|PrintVis Version|BC 28.0 | BC 28.1 | BC 28.2 | BC 28.3 | BC 28.4 | BC 28.5 |Log|Date|
+|---|---| ---| ---| ---| ---| ---|---|---|
+|28.1.2.9|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.9/28.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.9/28.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.9/28.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.9/28.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.9/28.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.9/28.5%20RuntimePackages.zip)|[Download]()|18/09/2026|
+
 |PrintVis Version|BC 28.0 | BC 28.1 | BC 28.2 | BC 28.3 | BC 28.4 |Log|Date|
 |---|---| ---| ---| ---| ---|---|---|
 |28.1.2.8|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.8/28.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.8/28.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.8/28.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.8/28.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.8/28.4%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.8/28.1.2.8%20release%20log.xlsx)|04/09/2026|
