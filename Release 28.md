@@ -2,6 +2,10 @@
 # PrintVis 28 releases
 |PrintVis Version|BC 28.0 | BC 28.1 | BC 28.2 | BC 28.3 | BC 28.4 | BC 28.5 | BC 28.6 |Log|Date|
 |---|---| ---| ---| ---| ---| ---| ---|---|---|
+|28.1.2.12|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.12/28.6%20RuntimePackages.zip)|[Download]()|14/10/2026|
+
+|PrintVis Version|BC 28.0 | BC 28.1 | BC 28.2 | BC 28.3 | BC 28.4 | BC 28.5 | BC 28.6 |Log|Date|
+|---|---| ---| ---| ---| ---| ---| ---|---|---|
 |28.1.2.11|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.0%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.1%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.2%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.3%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.4%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.5%20RuntimePackages.zip)| [Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.6%20RuntimePackages.zip)|[Download](https://printvis.blob.core.windows.net/releases/pv365bc-28/28.1/2.11/28.1.2.11%20release%20log.xlsx)|13/10/2026|
 
 |PrintVis Version|BC 28.0 | BC 28.1 | BC 28.2 | BC 28.3 | BC 28.4 | BC 28.5 |Log|Date|
