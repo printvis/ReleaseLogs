@@ -1,6 +1,7 @@
 # ReleaseLogs
 PrintVis Release logs and download links
 
+[Release logs for PV29](Release%2029.md) <br>
 [Release logs for PV28](Release%2028.md) <br>
 [Release logs for PV27](Release%2027.md) <br>
 [Release logs for PV26](Release%2026.md) <br>
